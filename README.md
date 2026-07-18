@@ -22,12 +22,12 @@
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp,html,css" />
+<img src="https://skillicons.dev/icons?i=java,js,python,c,html,css" />
 </p>
 
 ### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" />
+<img src="https://skillicons.dev/icons?i=react,vite" />
 </p>
 
 ### Backend
@@ -58,24 +58,11 @@ REST APIs with Express.js, MongoDB, JWT Authentication and MVC Architecture.
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gagan-m13&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagan-m13&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gagan-m13&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gagan-m13&theme=algolia&margin-w=10&no-frame=true"/>
-</p>
 
 ---
 
