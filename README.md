@@ -44,21 +44,49 @@
 
 ## 📌 Featured Projects
 
-<p align="center">
+### 🍽️ BiteReels
+A **mobile-first food discovery platform** that helps users explore local cuisines through an immersive vertical video experience while enabling food businesses to showcase their dishes.
 
-<a href="https://github.com/gagan-m13/bite-reels">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gagan-m13&repo=bite-reels&theme=tokyonight" />
-</a>
+**✨ Highlights**
+- 📱 Reels-style autoplay video feed with viewport-based playback
+- 🔐 Secure JWT authentication with separate User & Business Partner roles
+- ☁️ Media uploads streamed to ImageKit Cloud CDN
+- ⚡ Built with React 19, Express 5, MongoDB & Mongoose
+- 🏗️ Clean Architecture with centralized error handling and request validation
 
-<a href="https://github.com/gagan-m13/resume-analyzer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gagan-m13&repo=resume-analyzer&theme=tokyonight" />
-</a>
+**Tech Stack:** React • React Router v7 • Express.js • MongoDB • Mongoose • ImageKit • JWT • Vanilla CSS
 
-<a href="https://github.com/gagan-m13/online-compiler">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gagan-m13&repo=online-compiler&theme=tokyonight" />
-</a>
+🔗 **Repository:** https://github.com/gagan-m13/bite-reels
 
-</p>
+---
+
+### 📄 AI Resume Analyzer
+An AI-powered resume analysis platform that evaluates resumes, provides ATS-friendly feedback, and generates intelligent suggestions using Google's Gemini AI.
+
+**✨ Highlights**
+- 🤖 AI-powered resume evaluation
+- 📊 ATS score and improvement suggestions
+- 📂 Resume upload and analysis
+- ⚡ Interactive Streamlit interface
+
+**Tech Stack:** Python • Streamlit • Gemini API
+
+🔗 **Repository:** https://github.com/gagan-m13/resume-analyzer
+
+---
+
+### 💻 Online Compiler
+A browser-based multi-language online compiler that executes code securely in isolated environments, providing a seamless coding experience directly from the web.
+
+**✨ Highlights**
+- 🌍 Supports multiple programming languages
+- ⚙️ Backend-powered code execution
+- 📝 Interactive code editor
+- 🚀 Fast compilation and execution workflow
+
+**Tech Stack:** Node.js • Express.js • JavaScript • Docker
+
+🔗 **Repository:** https://github.com/gagan-m13/online-compiler
 ## 🌐 Connect With Me
 
 <p align="left">
