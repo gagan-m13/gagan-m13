@@ -22,12 +22,12 @@
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp,html,css" />
+<img src="https://skillicons.dev/icons?i=java,js,python,c,html,css" />
 </p>
 
 ### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### Backend
@@ -44,20 +44,21 @@
 
 ## 📌 Featured Projects
 
-### 🍔 FoodView
-A modern food ordering UI built with React.
+<p align="center">
 
-### 📊 VTU Result Analysis
-Analyzes VTU results and generates class-wise performance reports.
+<a href="https://github.com/gagan-m13/bite-reels">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gagan-m13&repo=bite-reels&theme=tokyonight" />
+</a>
 
-### 🤖 AI Resume Analyzer
-AI-powered Resume Analyzer using Gemini API and Streamlit.
+<a href="https://github.com/gagan-m13/resume-analyzer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gagan-m13&repo=resume-analyzer&theme=tokyonight" />
+</a>
 
-### 🌐 MERN Backend Projects
-REST APIs with Express.js, MongoDB, JWT Authentication and MVC Architecture.
+<a href="https://github.com/gagan-m13/online-compiler">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gagan-m13&repo=online-compiler&theme=tokyonight" />
+</a>
 
----
-
+</p>
 ## 🌐 Connect With Me
 
 <p align="left">
